@@ -1,0 +1,15 @@
+test_change_weight (__main__.TestCase) ... ok
+test_combo_method (__main__.TestCase) ... ok
+test_die_length (__main__.TestCase) ... ok
+test_die_set_length (__main__.TestCase) ... ok
+test_face_counts_per_roll_length (__main__.TestCase) ... ok
+test_game_play_length (__main__.TestCase) ... ok
+test_game_show_dataframe (__main__.TestCase) ... ok
+test_jackpot_type (__main__.TestCase) ... ok
+test_roll_length (__main__.TestCase) ... ok
+test_show_dataframe (__main__.TestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.276s
+
+OK
